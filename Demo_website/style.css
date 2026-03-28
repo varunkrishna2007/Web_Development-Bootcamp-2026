@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#beginner-range
+{
+    background-color: beige;
+    color :black;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+#intermediate-range
+{
+    background-color: aliceblue;
+    color :black;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+#advanced-range
+{
+    background-color: rgb(191, 133, 245);
+    color :black;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+#virtuoso-range
+{
+    background-color: burlywood;
+    color :black;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
